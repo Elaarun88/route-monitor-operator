@@ -17,7 +17,7 @@ require (
 	github.com/openshift/osde2e-common v0.0.0-20240604133256-b7200cad0cca
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.63.0
 	github.com/prometheus/common v0.54.0
-	github.com/rhobs/obo-prometheus-operator/pkg/apis/monitoring v0.60.0-rhobs1
+	github.com/rhobs/obo-prometheus-operator/pkg/apis/monitoring v0.83.0
 	go.uber.org/mock v0.4.0
 	gopkg.in/inf.v0 v0.9.1
 	k8s.io/api v0.30.3
